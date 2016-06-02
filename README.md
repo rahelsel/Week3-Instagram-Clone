@@ -1,4 +1,5 @@
-###Week 3: Instagram Clone
+#Week 3: Instagram Clone
+
 ##Overview
 > This week will introduce how to implement  a backend service using CloudKit. Students typically enjoy this week’s project as well as  creating their own custom filters, working with the camera, and animations.  
 
