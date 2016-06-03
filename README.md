@@ -11,11 +11,11 @@ Students will know how to implement UICollectionViews.
 Students will know how to implement a UIPinchGestureRecognizer
 
 ##Daily Breakdown
-#####[Class 1:](class-1) Parse, Auto Layout(cont.), UIImagePickerController
-#####[Class 2:](class-2) Resizing Images, UIAlertController, CIFilters
-#####[Class 3:](class-3) UICollectionView, Lazy Load Images, Property Observers
-#####[Class 4:](class-4) UIPinchGestureRecogizer, Constraint Animations
-#####[Class 5:](class-5) Data Structures and Whiteboarding
+* [Class 1:](class-1) Parse, Auto Layout(cont.), UIImagePickerController
+* [Class 2:](class-2) Resizing Images, UIAlertController, CIFilters
+* [Class 3:](class-3) UICollectionView, Lazy Load Images, Property Observers
+* [Class 4:](class-4) UIPinchGestureRecogizer, Constraint Animations
+* [Class 5:](class-5) Data Structures and Whiteboarding
 
 ##[Other Resources:](Resources/)
 * [Homework Grading Standard](Resources/hw-grading-standard/)
