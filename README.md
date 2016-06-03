@@ -10,14 +10,6 @@ Students will know how to properly handle images retrieved from an API.
 Students will know how to implement UICollectionViews.
 Students will know how to implement a UIPinchGestureRecognizer
 
-###Reading Assignment:
-* Cracking the coding Interview/Programming Interviews Exposed:
-  * Stacks & Queues
-
-###Coding Challenges:
-  * Implement Queue and Stack using Linked List.
-  * Implement Queue using an array.
-
 ##Daily Breakdown
 #####[Class 1:](class-1) Parse, Auto Layout(cont.), UIImagePickerController
 #####[Class 2:](class-2) Resizing Images, UIAlertController, CIFilters
