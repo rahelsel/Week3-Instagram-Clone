@@ -17,12 +17,8 @@
 * In your coding challenge playground, take a guess at who in class is a Snapchat POWER USER!(1 bonus point).
 
 ###Reading Assignment:
-* Apple Documentation:
-	* [Core Image Programming Guide](https://developer.apple.com/library/ios/documentation/GraphicsImaging/Conceptual/CoreImaging/ci_intro/ci_intro.html)
-	* [CloudKit Refresh](https://developer.apple.com/library/ios/documentation/General/Conceptual/iCloudDesignGuide/DesigningforCloudKit/DesigningforCloudKit.html) - Refresh
-	* [UITabBarController](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UITabBarController_Class/index.html)
-* General Concepts
-	* Animating Constraints
+* [UICollectionView](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UICollectionView_class/index.html)
+* [UICollectionViewFlowLayout](https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UICollectionViewFlowLayout_class/)
 
 ##Other Resources
 * [Reading Assignments](../../Resources/ra-grading-standard/)

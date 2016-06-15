@@ -7,12 +7,8 @@
 * Create a custom protocol and delegate in order to communicate back image selection from GalleryViewController to the HomeViewControllerfor editing.
 
 ###Reading Assignment:
-* Apple Documentation:
-	* [UIGestureRecognizer](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIGestureRecognizer_Class/index.html#//apple_ref/occ/cl/UIGestureRecognizer)
-	* UIPinchGestureRecogizer
-	* [Photos Framework](https://developer.apple.com/library/ios/documentation/Photos/Reference/Photos_Framework/index.html)
-	* [SLComposeController](https://developer.apple.com/library/ios/documentation/NetworkingInternet/Reference/SLComposeViewController_Class/index.html)
-
+* Cracking the coding Interview/Programming Interviews Exposed:
+  * Stacks & Queues
 
 
 ##Other Resources
