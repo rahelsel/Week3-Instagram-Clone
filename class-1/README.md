@@ -1,15 +1,17 @@
 #Week 3 - Class 1
 ##Homework
-* Setup a new project, disable landscape.
-* Layout an Image view in the center of the screen using Auto Layout.
-* Layout: centerX, centerY + 10, width 0.94, height 0.82
-* Use the UIImagePickerController and its delegate to use the camera to set the image view’s image.
-* Add a toolbar with "+" button to your navigation controller that brings up ActionController if the device supports Camera and Photo Library, if not, simply present Photo library.
-* Start planning out your process, and developing a game plan, for building your Personal Projects for Week 5 project week.
+* Setup a new project, disable landscape in project settings **General > Deployment Info**.  
+* Enable CloudKit in your application, we will continue to build this out tomorrow.  
+* Layout an image view in the center of the screen using Auto Layout and change its background color.  
+* In the attributes inspector, make sure to enable *Clips to Bounds* and set the content mode to *Aspect Fill* on the image View.  
+* UIImageView Auto Layout Constraints: centerX, centerY, width 0.85, height 0.85  
+* Create and outlet to your image view in code and call it `imageView`.  
+* Add a TapGestureRecognizer to the image view and create an Action in code.  
+* When tapped the image should present a UIAlertController to allow the user to select the *Camera* or *Photo Library*  
+* Use the UIImagePickerController and its delegate to use the camera to set the image view's image.  
+* Your UIImagePickerController should allow editing. Also, the *edited* image should be assigned to the image view.  
 * **Code Challenge:**
-	* Write a function that determines how many words there are in a sentence
-* **Bonus:**
-	* Post action in the action controller that successfully uploads the current ImageView’s image up to your CloudKit backend.
+	* Write a function that determines how many words there are in a sentence.  
 
 ###Readings:
 * Apple Documentation:

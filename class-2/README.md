@@ -13,9 +13,6 @@
 * **Bonus:**
 * Add two extra filters
 * Implement Save image to the Library (edited image).
-* Build model object to house image and metadata to create CloudKit object when the user hits publish.
-* [Hipster Test!](http://www.playbuzz.com/thelaststraw10/are-you-a-hipster) - Take and tell Michael and Adam how hipster you are!
-	* 1 Bonus Point
 	
 ###Reading Assignment:
 * [UICollectionView](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UICollectionView_class/index.html)
