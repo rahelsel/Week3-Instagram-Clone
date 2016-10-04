@@ -2,8 +2,8 @@
 ##Homework  
 * Create `Post` Model Object.  
 * Add `ModelAdditions` to `Post` to create `CKRecord` from `Post`.  
-* Create an extension on UIImage that resizes an image to specified parameters.  
-* Create Filters class and implement at least **5** filters.  
+* Create an extension on `UIImage` that resizes an image to specified parameters.  
+* Create `Filters` class and implement at least **5** filters.  
 	* Be aware that certain filters require additional parameters.  
 	* To find out what filters are available, use this:  
 	```swift
@@ -15,10 +15,11 @@
 * Implement `POST` of an image to CloudKit.  
 * Implement Save image to the Library.  
 	> This should be seperated from the POST to CloudKit.  
-	
-* **Code Challenge:**
-* Write a function that returns all the odd elements of an array.  
-* **Bonus:**
+
+* Add a UITabBarController to your project.  
+* **Code Challenge:**  
+	* Write a function that returns all the odd elements of an array.  
+* **Bonus:**  
 	* Change from `Reset` to `Undo` and manually manage images to properly handle `Undo`ing of an applied filter.  
 * Embed the `HomeViewController` in a TabBarController.  
 
